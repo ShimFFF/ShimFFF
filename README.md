@@ -5,9 +5,9 @@
 
 ![SNOW_20230615_110100_152.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/099bdb83-7cd8-4e8b-9c2b-c8216890a073/SNOW_20230615_110100_152.jpg)
 
-### 👾 Skills
+<br/><br/>
 
----
+### 👾 Skills
 
 ***Language***
 
@@ -42,34 +42,32 @@
 > 
 > Git / Github                ⭐⭐
 > 
-
-## Shim sae won / HANA
+<br/><br/>
+## Shim sae won
 
 Birth : 2003.04.22
+<br/><br/>
 
 ***Education***
-
----
 
 🏢 가천대학교 재학
 
 (2022.03~  )
+<br/><br/>
 
 ***Major***
 
 ---
 
 💻 AI-SW 학부 인공지능 전공
+<br/><br/>
 
 ***Contact***
 
 ---
 
-***Phone***: 010-7189-5509
-
 ***Email***: shimseawon1510@gmail.com
-
-***Instagram***: @shim.s.w._123 
+<br/><br/>
 
 **ETC )..**
 
@@ -91,6 +89,8 @@ https://github.com/ShimFFF
 
 [https://sharp-windflower-f4d.notion.site/eb46bc7a58fe4aa3bc9fb708efc93b1f?pvs=4](https://www.notion.so/eb46bc7a58fe4aa3bc9fb708efc93b1f?pvs=21)
 
+<br/><br/>
+
 ## 😃 About Me
 
 ---
@@ -103,6 +103,7 @@ https://github.com/ShimFFF
 - 사용자 경험에 신경을 써, 직관적이고 사용하기 편한 앱을 개발하고 싶습니다
 - 적극적으로 피드백을 수용하며, 지속적인 개선과 발전을 위해 노력합니다
 - 잘 모르는 부분도 끝까지 끌고 가며 해결합니다
+  <br/><br/>
 
 ## 📄 Project
 
@@ -110,6 +111,7 @@ https://github.com/ShimFFF
 
 [제목 없는 데이터베이스](https://www.notion.so/847f18e50a224820b90027519c8faa82?pvs=21)
 
+<br/><br/>
 ## ⚜️ Others
 
 ---
