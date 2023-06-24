@@ -57,21 +57,17 @@ Birth : 2003.04.22
 
 ***Major***
 
----
 
 💻 AI-SW 학부 인공지능 전공
 <br/><br/>
 
 ***Contact***
 
----
-
 ***Email***: shimseawon1510@gmail.com
 <br/><br/>
 
 **ETC )..**
 
----
 
 *Notion (UMC Workbook)*
 
@@ -107,14 +103,12 @@ https://github.com/ShimFFF
 
 ## 📄 Project
 
----
 
 [제목 없는 데이터베이스](https://www.notion.so/847f18e50a224820b90027519c8faa82?pvs=21)
 
 <br/><br/>
 ## ⚜️ Others
 
----
 
 1. 안드로이드 스튜디오를 활용한 계산기 앱 개발 교육 진행
 
