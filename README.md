@@ -3,8 +3,6 @@
 > Gachon University Student!
 > 
 
-![SNOW_20230615_110100_152.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/099bdb83-7cd8-4e8b-9c2b-c8216890a073/SNOW_20230615_110100_152.jpg)
-
 <br/><br/>
 
 ### 👾 Skills
@@ -25,7 +23,7 @@
 > html            ⭐
 > 
 > JavaScript    ⭐
->
+> SQL ⭐
 
 <br/>
 
@@ -83,7 +81,7 @@ https://velog.io/@ssw123
 
 https://github.com/ShimFFF
 
-*Notion (공부 정리용)*
+*Notion (개인공부 정리용)*
 
 [https://sharp-windflower-f4d.notion.site/eb46bc7a58fe4aa3bc9fb708efc93b1f?pvs=4](https://www.notion.so/eb46bc7a58fe4aa3bc9fb708efc93b1f?pvs=21)
 
@@ -104,19 +102,14 @@ https://github.com/ShimFFF
 ## 📄 Project
 
 
-[제목 없는 데이터베이스](https://www.notion.so/847f18e50a224820b90027519c8faa82?pvs=21)
+
 
 <br/><br/>
 ## ⚜️ Others
 
 
-1. 안드로이드 스튜디오를 활용한 계산기 앱 개발 교육 진행
-
-2022. 가천대 창의 엔트리 캠프 우수 학생 수상
-
-1. 위례한빛고 재학생 코딩 교육, 외부 강사
-2. 가천대 프로그래밍 기초 과목 TA
-
 2023. UMC 4기 안드로이드 파트 수료
 
-1. AI • SW 학부의 날. 기업과 리더십 우수팀 발표
+2023. AI • SW 학부의 날. 기업과 리더십 우수팀 발표
+
+2023. 미션형 커뮤니티 서비스 묘집사 개발
