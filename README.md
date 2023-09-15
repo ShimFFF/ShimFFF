@@ -23,6 +23,7 @@
 > html            ⭐
 > 
 > JavaScript    ⭐
+> 
 > SQL ⭐
 
 <br/>
