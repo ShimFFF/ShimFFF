@@ -114,3 +114,4 @@ https://github.com/ShimFFF
 2023. AI • SW 학부의 날. 기업과 리더십 우수팀 발표
 
 2023. 미션형 커뮤니티 서비스 묘집사 개발
+      [https://beryl-lace-436.notion.site/3a981d0c1e634fa5aa94952103050b02?v=437069d5678745f4a0dd1e90d130c3c9]
