@@ -1,5 +1,4 @@
-# 심세원 (ShimFFF)
-***Contact***  
+# 심세원 (ShimFFF)  
 ***Email***: shimseawon1510@gmail.com
 <br/><br/>
 
